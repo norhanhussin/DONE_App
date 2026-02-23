@@ -35,7 +35,7 @@ function checkUser() {
             showClass: { popup: 'animate__animated animate__zoomIn' },
             preConfirm: (name) => {
                 if (!name) {
-                    Swal.showValidationMessage('لازم تقول لي اسمك عشان نبدأ الرحلة!');
+                    Swal.showValidationMessage('لازم تقولي اسمك عشان نبدأ الرحلة!');
                 }
                 return name;
             }

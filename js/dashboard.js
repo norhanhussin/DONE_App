@@ -26,7 +26,7 @@ function checkUser() {
             title: 'أهلاً بكِ في مَجرتنا! 🌌',
             text: 'اسمك إيه يا عسل؟',
             input: 'text',
-            inputPlaceholder: 'اكتبي اسمك هنا...',
+            inputPlaceholder: 'اكتب اسمك هُنا...',
             allowOutsideClick: false,
             background: '#0f172a',
             color: '#fff',
